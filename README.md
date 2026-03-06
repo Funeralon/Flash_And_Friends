@@ -46,7 +46,7 @@ Si vous souhaitez ouvrir le projet dans l'éditeur Unity :
 
 1. Clonez ce dépôt sur votre machine locale :
    ```bash
-   git clone [https://github.com/VOTRE_PSEUDO/NOM_DU_DEPOT.git](https://github.com/VOTRE_PSEUDO/NOM_DU_DEPOT.git)
+   git clone https://github.com/Funeralon/Flash_And_Friends.git
    ```
 
     Ouvrez Unity Hub et cliquez sur Add > Add project from disk.
