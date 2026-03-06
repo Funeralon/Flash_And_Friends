@@ -8,7 +8,7 @@
 
 Ce projet a été conçu pour mettre en pratique des concepts avancés de développement de jeux vidéo sur Unity :
 
-### 📷 Gameplay & Mécaniques de Photographie
+### Gameplay & Mécaniques de Photographie
 * **Contrôleur FPS personnalisé :** Déplacements fluides et gestion de la caméra à la souris.
 * **Système de prise de vue (Raycast) :** Détection intelligente des cibles (obstruction, distance, centrage) pour valider les clichés.
 * **Score "Good Vibes" :** Algorithme calculant la qualité de la photo en temps réel avec un retour visuel (Feedback UI).
