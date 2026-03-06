@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15431b2043272cc4aaf3e833c8cf221f, type: 3}
+  m_Name: Quete_04
+  m_EditorClassIdentifier: 
+  titreQuete: Street Art Vibe
+  description: "J'ai entendu dire qu'il y avait un graffiti magnifique cach\xE9 derri\xE8re
+    un batiment vers la Mairie. Prouve-le moi !"
+  tagCible: Graffiti
+  pointsRecompense: 200
